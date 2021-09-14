@@ -29,19 +29,19 @@ export const links: linkGroup[] = [
 		title: "General",
 		links: [
 			{
-				label: "Github",
+				label: "github",
 				value: "https://github.com/cjghost2000",
 			},
 			{
-				label: "Youtube",
+				label: "youtube",
 				value: "https://www.youtube.com/user/cjghost2001",
 			},
 			{
-				label: "Hotmail",
+				label: "hotmail",
 				value: "https://outlook.live.com/mail/0/inbox",
 			},
 			{
-				label: "Gmail",
+				label: "gmail",
 				value: "https://mail.google.com/mail/u/0/#inbox",
 			},
 		]
@@ -50,15 +50,15 @@ export const links: linkGroup[] = [
 		title: "Sauce",
 		links: [
 			{
-				label: "Anime List",
+				label: "anime list",
 				value: "https://anilist.co/user/cjghost2000/",
 			},
 			{
-				label: "Anime Index",
+				label: "anime index",
 				value: "https://piracy.moe/",
 			},
 			{
-				label: "Piracy Index",
+				label: "piracy index",
 				value: "https://github.com/Igglybuff/awesome-piracy",
 			},
 			{
@@ -66,7 +66,7 @@ export const links: linkGroup[] = [
 				value: "https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461",
 			},
 			{
-				label: "Unblocked",
+				label: "unblocked",
 				value: "https://unblocked-pw.github.io/",
 			},
 		]
@@ -100,24 +100,20 @@ export const links: linkGroup[] = [
 		title: "Media",
 		links: [
 			{
-				label: "Youtube",
-				value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
-			},
-			{
-				label: "Twitch",
+				label: "twitch",
 				value: "https://www.twitch.tv/cjghost2000/about",
 			},
 			{
-				label: "Netflix",
+				label: "netflix",
 				value: "https://www.netflix.com/browse",
 			},
 			{
-				label: "Youtube Music",
-				value: "https://music.youtube.com/library/playlists",
+				label: "watchlist",
+				value: "https://www.imdb.com/user/ur100602749/watchlist?ref_=nv_usr_wl_all_0",
 			},
 			{
-				label: "Watchlist",
-				value: "https://www.imdb.com/user/ur100602749/watchlist?ref_=nv_usr_wl_all_0",
+				label: "youtube music",
+				value: "https://music.youtube.com/library/playlists",
 			},
 		]
 	},
@@ -129,24 +125,16 @@ export const links: linkGroup[] = [
 				value: "https://imgur.com/user/cjghost2000/posts",
 			},
 			{
-				label: "unsplash",
-				value: "https://unsplash.com/",
-			},
-			{
-				label: "hltb",
-				value: "https://howlongtobeat.com/user?n=cjghost2000&s=games",
-			},
-			{
-				label: "monkeytype ԅ(♡﹃♡ԅ)",
-				value: "https://monkeytype.com/",
-			},
-			{
 				label: "keybr",
 				value: "https://www.keybr.com/",
 			},
 			{
-				label: "typeracer",
-				value: "https://play.typeracer.com/",
+				label: "unsplash",
+				value: "https://unsplash.com/",
+			},
+			{
+				label: "monkeytype",
+				value: "https://monkeytype.com/",
 			},
 		]
 	},
