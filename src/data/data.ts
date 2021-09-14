@@ -26,98 +26,23 @@ export type linkGroup = {
 */
 export const links: linkGroup[] = [
 	{
-		title: "Reddit",
+		title: "General",
 		links: [
 			{
-				label: "r/startpages",
-				value: "https://www.reddit.com/r/startpages/",
+				label: "Github",
+				value: "https://github.com/cjghost2000",
 			},
 			{
-				label: "r/unixporn",
-				value: "https://www.reddit.com/r/unixporn/",
+				label: "Youtube",
+				value: "https://www.youtube.com/user/cjghost2001",
 			},
 			{
-				label: "r/rainmeter",
-				value: "https://www.reddit.com/r/rainmeter/",
+				label: "Hotmail",
+				value: "https://outlook.live.com/mail/0/inbox",
 			},
 			{
-				label: "r/AnimalsBeingDerps",
-				value: "https://www.reddit.com/r/AnimalsBeingDerps/",
-			},
-		]
-	},
-	{
-		title: "3D Modelling",
-		links: [
-			{
-				label: "Blender",
-				value: "https://www.blender.org/",
-			},
-			{
-				label: "BlenderGuru",
-				value: "https://www.blenderguru.com/",
-			},
-			{
-				label: "Poliigon",
-				value: "https://www.poliigon.com/",
-			},
-			{
-				label: "Blender tutorial",
-				value: "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U",
-			},
-			{
-				label: "The other Blender tutorial",
-				value: "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
-			},
-		]
-	},
-	{
-		title: "Design",
-		links: [
-			{
-				label: "PixlrX",
-				value: "https://pixlr.com/x/",
-			},
-			{
-				label: "AI Image Enlarger",
-				value: "https://bigjpg.com/en",
-			},
-			{
-				label: "Img to Svg Converter",
-				value: "https://picsvg.com/",
-			},
-			{
-				label: "Affinity",
-				value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/",
-			},
-			{
-				label: "Affinity - YT",
-				value: "https://www.youtube.com/c/AffinityRevolution/playlists",
-			},
-		]
-	},
-	{
-		title: "Music",
-		links: [
-			{
-				label: "i wanna be a cowboy",
-				value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
-			},
-			{
-				label: "let the bodies hit the floor",
-				value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
-			},
-			{
-				label: "Nobody Kanna Cross It",
-				value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
-			},
-			{
-				label: "Smug Dancin",
-				value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
-			},
-			{
-				label: "Utamaru - The Sanctified Mind Cover",
-				value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
+				label: "Gmail",
+				value: "https://mail.google.com/mail/u/0/#inbox",
 			},
 		]
 	},
@@ -125,28 +50,103 @@ export const links: linkGroup[] = [
 		title: "Sauce",
 		links: [
 			{
-				label: "Pictures - DeathAndMilk",
-				value: "https://www.instagram.com/deathandmilk_/",
+				label: "Anime List",
+				value: "https://anilist.co/user/cjghost2000/",
 			},
 			{
-				label: "Icons - FontAwesome",
-				value: "https://fontawesome.com/icons",
+				label: "Anime Index",
+				value: "https://piracy.moe/",
 			},
 			{
-				label: "Text Flicker - CodeMyUI",
-				value: "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/",
+				label: "Piracy Index",
+				value: "https://github.com/Igglybuff/awesome-piracy",
 			},
 			{
-				label: "Wave Animation - mburakerman",
-				value: "https://codepen.io/mburakerman/pen/eRZZEv",
+				label: "cs.rin.ru",
+				value: "https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461",
 			},
 			{
-				label: "Da real sauce ԅ(♡﹃♡ԅ)",
-				value: "https://www.youtube.com/watch?v=qr89xoZyE1g",
+				label: "Unblocked",
+				value: "https://unblocked-pw.github.io/",
+			},
+		]
+	},
+	{
+		title: "Reddit",
+		links: [
+			{
+				label: "r/wallpapers",
+				value: "https://www.reddit.com/r/wallpapers/",
 			},
 			{
-				label: "Even more real sauce ( ͡° ͜ʖ ͡°)",
-				value: "https://www.youtube.com/watch?v=VLhJOd_TFiI",
+				label: "r/startpages",
+				value: "https://www.reddit.com/r/startpages/",
+			},
+			{
+				label: "r/crackwatch",
+				value: "https://www.reddit.com/r/CrackWatch/",
+			},
+			{
+				label: "r/firefoxcss",
+				value: "https://www.reddit.com/r/FirefoxCSS/",
+			},
+			{
+				label: "r/unixporn",
+				value: "https://www.reddit.com/r/unixporn/",
+			},
+		]
+	},
+	{
+		title: "Media",
+		links: [
+			{
+				label: "Youtube",
+				value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
+			},
+			{
+				label: "Twitch",
+				value: "https://www.twitch.tv/cjghost2000/about",
+			},
+			{
+				label: "Netflix",
+				value: "https://www.netflix.com/browse",
+			},
+			{
+				label: "Youtube Music",
+				value: "https://music.youtube.com/library/playlists",
+			},
+			{
+				label: "Watchlist",
+				value: "https://www.imdb.com/user/ur100602749/watchlist?ref_=nv_usr_wl_all_0",
+			},
+		]
+	},
+	{
+		title: "Misc",
+		links: [
+			{
+				label: "imgur",
+				value: "https://imgur.com/user/cjghost2000/posts",
+			},
+			{
+				label: "unsplash",
+				value: "https://unsplash.com/",
+			},
+			{
+				label: "hltb",
+				value: "https://howlongtobeat.com/user?n=cjghost2000&s=games",
+			},
+			{
+				label: "monkeytype ԅ(♡﹃♡ԅ)",
+				value: "https://monkeytype.com/",
+			},
+			{
+				label: "keybr",
+				value: "https://www.keybr.com/",
+			},
+			{
+				label: "typeracer",
+				value: "https://play.typeracer.com/",
 			},
 		]
 	},
