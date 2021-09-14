@@ -72,31 +72,6 @@ export const links: linkGroup[] = [
 		]
 	},
 	{
-		title: "Reddit",
-		links: [
-			{
-				label: "r/wallpapers",
-				value: "https://www.reddit.com/r/wallpapers/",
-			},
-			{
-				label: "r/startpages",
-				value: "https://www.reddit.com/r/startpages/",
-			},
-			{
-				label: "r/crackwatch",
-				value: "https://www.reddit.com/r/CrackWatch/",
-			},
-			{
-				label: "r/firefoxcss",
-				value: "https://www.reddit.com/r/FirefoxCSS/",
-			},
-			{
-				label: "r/unixporn",
-				value: "https://www.reddit.com/r/unixporn/",
-			},
-		]
-	},
-	{
 		title: "Media",
 		links: [
 			{
@@ -115,6 +90,31 @@ export const links: linkGroup[] = [
 				label: "youtube music",
 				value: "https://music.youtube.com/library/playlists",
 			},
+		]
+	},
+	{
+		title: "Reddit",
+		links: [
+            {
+                label: "r/wallpapers",
+                value: "https://www.reddit.com/r/wallpapers/",
+            },
+            {
+                label: "r/startpages",
+                value: "https://www.reddit.com/r/startpages/",
+            },
+            {
+                label: "r/crackwatch",
+                value: "https://www.reddit.com/r/CrackWatch/",
+            },
+            {
+                label: "r/firefoxcss",
+                value: "https://www.reddit.com/r/FirefoxCSS/",
+            },
+            {
+                label: "r/unixporn",
+                value: "https://www.reddit.com/r/unixporn/",
+            },
 		]
 	},
 	{
