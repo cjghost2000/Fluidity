@@ -67,7 +67,7 @@ export const links: linkGroup[] = [
 			},
 			{
 				label: "unblocked",
-				value: "https://unblocked-pw.github.io/",
+				value: "https://unblockit.kim/",
 			},
 		]
 	},
