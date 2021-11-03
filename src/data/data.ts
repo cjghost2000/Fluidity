@@ -20,7 +20,7 @@ export type linkGroup = {
 /*
 ──────▄▌▐▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀▀▀▌
 ───▄▄██▌█ BEEP BEEP
-▄▄▄▌▐██▌█ GAY PORN DELIVERY
+▄▄▄▌▐██▌█  PORN DELIVERY
 ███████▌█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄​▄▄▄▄▄▄▌
 ▀(@)▀▀▀▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀(@)▀
 */
@@ -59,7 +59,7 @@ export const links: linkGroup[] = [
 			},
 			{
 				label: "piracy index",
-				value: "https://github.com/Igglybuff/awesome-piracy",
+				value: "https://www.reddit.com/r/Piracy/wiki/megathread",
 			},
 			{
 				label: "cs.rin.ru",
@@ -67,7 +67,7 @@ export const links: linkGroup[] = [
 			},
 			{
 				label: "unblocked",
-				value: "https://unblocked-pw.github.io/",
+				value: "https://unblockit.kim/",
 			},
 		]
 	},
