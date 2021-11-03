@@ -59,7 +59,7 @@ export const links: linkGroup[] = [
 			},
 			{
 				label: "piracy index",
-				value: "https://www.reddit.com/r/Piracy/wiki/megathread",
+				value: "https://github.com/taskylizard/piratedgames-megathread",
 			},
 			{
 				label: "cs.rin.ru",
@@ -96,6 +96,10 @@ export const links: linkGroup[] = [
 		title: "Reddit",
 		links: [
             {
+                label: "r/megathread",
+                value: "https://www.reddit.com/r/Piracy/wiki/megathread",
+            },
+			{
                 label: "r/wallpapers",
                 value: "https://www.reddit.com/r/wallpapers/",
             },
@@ -110,10 +114,6 @@ export const links: linkGroup[] = [
             {
                 label: "r/firefoxcss",
                 value: "https://www.reddit.com/r/FirefoxCSS/",
-            },
-            {
-                label: "r/unixporn",
-                value: "https://www.reddit.com/r/unixporn/",
             },
 		]
 	},
