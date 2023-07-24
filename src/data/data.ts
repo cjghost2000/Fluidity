@@ -59,7 +59,7 @@ export const links: linkGroup[] = [
 			},
 			{
 				label: "piracy index",
-				value: "https://github.com/taskylizard/piratedgames-megathread",
+				value: "https://fmhy.net/",
 			},
 			{
 				label: "cs.rin.ru",
@@ -79,8 +79,8 @@ export const links: linkGroup[] = [
 				value: "https://www.twitch.tv/cjghost2000/about",
 			},
 			{
-				label: "netflix",
-				value: "https://www.netflix.com/browse",
+				label: "movieweb",
+				value: "https://movie-web.app/search/movie",
 			},
 			{
 				label: "watchlist",
@@ -90,31 +90,6 @@ export const links: linkGroup[] = [
 				label: "youtube music",
 				value: "https://music.youtube.com/library/playlists",
 			},
-		]
-	},
-	{
-		title: "Reddit",
-		links: [
-            {
-                label: "r/megathread",
-                value: "https://www.reddit.com/r/Piracy/wiki/megathread",
-            },
-			{
-                label: "r/wallpapers",
-                value: "https://www.reddit.com/r/wallpapers/",
-            },
-            {
-                label: "r/startpages",
-                value: "https://www.reddit.com/r/startpages/",
-            },
-            {
-                label: "r/crackwatch",
-                value: "https://www.reddit.com/r/CrackWatch/",
-            },
-            {
-                label: "r/firefoxcss",
-                value: "https://www.reddit.com/r/FirefoxCSS/",
-            },
 		]
 	},
 	{
@@ -135,6 +110,10 @@ export const links: linkGroup[] = [
 			{
 				label: "monkeytype",
 				value: "https://monkeytype.com/",
+			},
+			{
+				label: "firefoxcss",
+				value: "https://firefoxcss-store.github.io/",
 			},
 		]
 	},
